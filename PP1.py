@@ -1,7 +1,7 @@
 '''
 Group #: CCPE
 Group Members: Cielo Joyce Ando, Pamela Nicole de Guzman, Gabriel Vargas
-Date Submitted: 
+Date Submitted: March 2, 2023
 Program Description: 
 This program takes a list of numbers as input and calculates its mean, median, and mode. 
 The mean is the average of all the numbers in the list. The median is the number that would 
